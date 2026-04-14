@@ -9,7 +9,7 @@ Uses an **H2 in-memory database**.
 
 ---
 
-## Build & Run (Java 25)
+## Build & Run (Java 21)
 
 ```bash
 mvn clean test
