@@ -70,5 +70,4 @@ mvn test
 ```bash
 mvn -Dtest=LoanServiceTest test
 mvn -Dtest=PaymentServiceTest test
-mvn -Dtest=LoanPaymentApiIT test
 ```
